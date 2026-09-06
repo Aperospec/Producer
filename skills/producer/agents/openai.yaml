@@ -1,0 +1,4 @@
+interface:
+  display_name: "Producer"
+  short_description: "Project interpretation, direct delegation, delivery and learning."
+  default_prompt: "Use $producer to complete the professional work required by this project."
